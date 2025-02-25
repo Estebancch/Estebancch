@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Esteban
 
-<!--
-**Estebancch/Estebancch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado por la tecnología y el desarrollo de software. Actualmente estoy aprendiendo y mejorando mis habilidades en diversas áreas de la programación. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+
+- 💻 Lenguajes: **JavaScript, Python, Java**
+- 🌐 Frontend: **HTML, CSS, React**
+- ⚙️ Backend: **Node.js, Express**
+- 🗄️ Bases de Datos: **MySQL, MongoDB**
+- 🔧 Otras herramientas: **Git, GitHub, GitLab, Linux**
+
+---
+
+## 🎯 Objetivos y Aprendizaje
+
+- 📚 Mejorar mis habilidades en **desarrollo web y backend**.
+- 🔍 Explorar nuevas tecnologías y contribuir a proyectos de código abierto.
+- 🚀 Seguir aprendiendo sobre **optimización y seguridad en aplicaciones web**.
+
+---
+
+## 📫 ¡Conéctate conmigo!
+
+📩 Email: [tuemail@example.com](estebancarmonastaff@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/tuusuario](https://www.linkedin.com/in/esteban-carmona-a59413265/)  
+
+---
+
+¡Gracias por visitar mi perfil! 😊✨
