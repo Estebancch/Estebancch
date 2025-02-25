@@ -25,7 +25,7 @@
 ## 📫 ¡Conéctate conmigo!
 
 📩 Email: [estebancarmonastaff@gmail.com](estebancarmonastaff@gmail.com)
-💼 LinkedIn: [[linkedin.com/in/tuusuario](https://www.linkedin.com/in/esteban-carmona-a59413265/)
+💼 LinkedIn: [https://www.linkedin.com/in/esteban-carmona-a59413265/](https://www.linkedin.com/in/esteban-carmona-a59413265/)
 
 ---
 
