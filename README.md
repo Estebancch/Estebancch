@@ -23,7 +23,7 @@
 <br />
 <h3>📦 Inventory Pro Manager</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Estebancch/inventory-pro-manager/main/images/inventory-pro-image.png" width="400" alt="Inventory Management System">
+<img src="https://raw.githubusercontent.com/Estebancch/inventory-pro-manager/main/images/inventory-pro-image2.png" width="400" alt="Inventory Management System">
 </p>
 <p align="center">
 <a href="https://github.com/Estebancch/inventory-pro-manager" target="_blank">
