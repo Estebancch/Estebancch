@@ -16,33 +16,39 @@
 
 <br>
 
-## Highlighted Projects 💣
-<table>
+## Highlighted Projects
+<table border="0">
 <tr>
-<td width="50%">
-<h3 align="center">Python Data Analysis</h3>
-<div align="center">
+<td width="50%" align="center" valign="top">
+<br />
+<h3>🐍 Python Data Analysis</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="400">
-<p>
+</p>
+<p align="center">
 <a href="https://github.com/Estebancch" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Projects and scripts focused on <strong>Data Science</strong> developed during my IBM certification. Data analysis and automation using Python.</p>
-</div>
+<p align="center">
+  <em>Data Science projects and scripts developed during my IBM certification, focusing on data processing and automation.</em>
+</p>
 </td>
 
-<td width="50%">
-<h3 align="center">Java Core Development</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="400">
-<p>
-<a href="https://github.com/Estebancch" target="_blank">
+<td width="50%" align="center" valign="top">
+<br />
+<h3>Vet Clinic Web</h3>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Estebancch/vet-clinic-web/main/public_html/images/vet-web-dev.png" width="400" alt="Vet Clinic Project">
+</p>
+<p align="center">
+<a href="https://github.com/Estebancch/vet-clinic-web" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Implementation of programming logic and <strong>Object-Oriented Programming (OOP)</strong>. Fundamental data structures and algorithms in Java.</p>
-</div>
+<p align="center">
+  <em>Full-stack web interface for <strong>Peluditos & Amorositos</strong>. Developed with a PHP/JSON backend and a responsive frontend using clean HTML5 and CSS3.</em>
+</p>
 </td>
 </tr>
 </table>
