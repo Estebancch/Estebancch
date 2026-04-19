@@ -18,7 +18,7 @@
 
 ## ⚒️ Tech Stack
 
-- **Backend:** Python  
+- **Backend:** Python, JavaScript  
 - **Frontend:** HTML, CSS  
 - **Other Languages:** Java (basic)  
 - **Tools:** Git, GitHub  
