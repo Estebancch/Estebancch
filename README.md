@@ -16,28 +16,28 @@
 
 <br>
 
-## Highlighted Projects
+## Highlighted Projects 💣
 <table border="0">
 <tr>
 <td width="50%" align="center" valign="top">
 <br />
-<h3>🐍 Python Data Analysis</h3>
+<h3>📦 Inventory Pro Manager</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="400">
+<img src="https://raw.githubusercontent.com/Estebancch/inventory-pro-manager/main/images/inventory-pro-image.png" width="400" alt="Inventory Management System">
 </p>
 <p align="center">
-<a href="https://github.com/Estebancch" target="_blank">
+<a href="https://github.com/Estebancch/inventory-pro-manager" target="_blank">
 <img src="https://img.shields.io/badge/SOURCE_CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
 <p align="center">
-  <em>Data Science projects and scripts developed during my IBM certification, focusing on data processing and automation.</em>
+  <em>Professional inventory management system built with Python, featuring real-time stock tracking and store data handling.</em>
 </p>
 </td>
 
 <td width="50%" align="center" valign="top">
 <br />
-<h3>Vet Clinic Web</h3>
+<h3>🐾 Vet Clinic Web</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Estebancch/vet-clinic-web/main/public_html/images/vet-web-dev.png" width="400" alt="Vet Clinic Project">
 </p>
@@ -47,7 +47,7 @@
 </a>
 </p>
 <p align="center">
-  <em>Full-stack web interface for <strong>Peluditos & Amorositos</strong>. Developed with a PHP/JSON backend and a responsive frontend using clean HTML5 and CSS3.</em>
+  <em>Full-stack interface for Peluditos & Amorositos, featuring a PHP/JSON backend and a responsive modern frontend.</em>
 </p>
 </td>
 </tr>
