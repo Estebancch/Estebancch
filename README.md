@@ -3,16 +3,25 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;System+and+Telecommunications+Engineer;Python+&amp;+Java+Enthusiast;Passionate+about+Technology">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer+(Python);With+Frontend+Skills;Systems+and+Telecommunications+Engineering+Student;Python+%26+Java+Enthusiast;Passionate+about+Technology">
 </div>
 
 ## About Me
 
-- 🎓 **7th-semester System and Telecommunications Engineering** student at University of Manizales.
-- 🐍 **IBM Certified** in Python for Data Science.
-- 👨‍💻 Focused on software development and building efficient technical solutions.
-- 🧠 Continuous learner in **Python, Java, and HTML/CSS**.
-- 📍 Based in Manizales, Colombia 🇨🇴.
+- 🎓 7th-semester Systems and Telecommunications Engineering student.
+- 🐍 IBM Certified in Python for Data Science.
+- 👨‍💻 Backend-focused developer using Python, with frontend skills to build complete web applications (inventory systems, web apps).
+- 🧠 Currently improving skills in APIs, databases, and backend architecture.
+- 📍 Manizales, Colombia.
+
+<br>
+
+## ⚒️ Tech Stack
+
+- **Backend:** Python  
+- **Frontend:** HTML, CSS  
+- **Other Languages:** Java (basic)  
+- **Tools:** Git, GitHub  
 
 <br>
 
@@ -31,7 +40,7 @@
 </a>
 </p>
 <p align="center">
-  <em>Professional inventory management system built with Python, featuring real-time stock tracking and store data handling.</em>
+  <em>Inventory management system built with Python, including product CRUD operations, stock tracking, and structured data handling for small business scenarios.</em>
 </p>
 </td>
 
@@ -47,7 +56,7 @@
 </a>
 </p>
 <p align="center">
-  <em>Full-stack interface for Peluditos & Amorositos, featuring a PHP/JSON backend and a responsive modern frontend.</em>
+  <em>Web application with PHP backend and responsive frontend, handling client records and basic service management for a veterinary business.</em>
 </p>
 </td>
 </tr>
